@@ -1,0 +1,1 @@
+# dl-project-Kannada-MNIST
